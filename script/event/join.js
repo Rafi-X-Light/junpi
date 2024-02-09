@@ -16,7 +16,7 @@ module.exports.handleEvent = async function({ api, event, client, global }) {
 		api.getCurrentUserID()
 	 );
 
-	 const welcomeMessage = `🔴🟡🟢\n\n✅ Connected successfully!....\n•──────────────────•\n→ Admin: CliffVincent\n→ Facebook: https://www.facebook.com/swordigo.swordslush\n\nUsage: ${PREFIX}help\nUse ${PREFIX}callad if there is an error to the Bot the bot admin will try to fix this as soon as possible\n→ Thank you for using this bot, have fun using it.`;
+	 const welcomeMessage = `🧡😺\n\n✅ Connected successfully!....\n•──────────────────•\n→ Admin: Light_X_Rafi\n→ Facebook: \n\nUsage: ${PREFIX}help\nUse ${PREFIX}callad if there is an error to the Bot the bot admin will try to fix this as soon as possible\n→ Thank you for using this bot, have fun using it.`;
 
 	 api.sendMessage(
 		{
